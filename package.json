@@ -8,6 +8,6 @@
     "request": "^2.88.2"
   },
   "scripts": {
-    "start": "node src"
+    "start": "NODE_PATH=src node src"
   }
 }
