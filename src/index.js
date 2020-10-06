@@ -2,7 +2,5 @@ const crawler = require('crawler');
 
 
 (async () => {
-    const item = await crawler('바다', 10);
-
-    console.log(item);
+    await crawler('머그', num = 1000);
 })();
